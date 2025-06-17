@@ -62,6 +62,12 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+<<<<<<< HEAD
+=======
+# Mono auto generated files
+mono_crash.*
+
+>>>>>>> 8c2bc13 (Initial commit ke 19203x)
 # Builds
 *.apk
 *.aab
